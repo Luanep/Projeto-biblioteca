@@ -1,4 +1,4 @@
-# Projeto-biblioteca
+# Projeto biblioteca
 
 Projeto desenvolvido no módulo avançado de JS do Hiring Coders #2, da Gama Academy com mentoria de Simara Conceição.
 
