@@ -1,6 +1,5 @@
-
-// Se for sim, mostrar categorias disponíveis e perguntar qual prefere
-// Se não, mostrar todos os livros em ordem crescente pela quantidade de páginas
+// Inicia com a pergunta "Deseja buscar um livro. Se a resposta for sim, mostra as categorias disponíveis e perguntar qual prefere.
+// Se não, mostrar todos os  livros em ordem crescente pela quantidade de páginas.
 
 const livros = require('./database')
 const readline = require('readline-sync')
